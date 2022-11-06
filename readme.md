@@ -1,5 +1,7 @@
 # Hand Mask Generation and Validation Tool
 
+These codes are used to remove hand information for VirtualCube.  Thus it required the file organised as the VirtualCube project requires.
+
 ## HandMaskTool.py
 Tranverse the dataset folder and then generate the hand mask for each image.
 TransverFolder.py can be controled by command args and setting file and information from command args and setting file is handled by the module setting.py which is introduced in the second section.  Here I will give you some procedure to use TransverFolder.py easily and if you want to know how to set the command args and setting file by youself, please refer to setting.py in details. 
