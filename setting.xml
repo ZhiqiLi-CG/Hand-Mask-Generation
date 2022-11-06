@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<Datasets>
+	<Dataset>
+		<mask_camera type="list" len="3">
+			<elem index="0" type="int">0</elem>
+			<elem index="1" type="int">6</elem>
+			<elem index="2" type="int">8</elem>
+		</mask_camera>
+		<validate_camera type="list" len="2">
+			<elem index="0" type="int">1</elem>
+			<elem index="1" type="int">5</elem>
+		</validate_camera>
+		<clip_list type="list" len="2">
+			<elem index="0" type="int">7</elem>
+			<elem index="1" type="int">8</elem>
+		</clip_list>
+		<path type="str">\\msralab\ProjectData\IG_VirtualCube\ViewSynthesis\20220727Touch\20220727162432</path>
+		<video_path type="str">D:\github_root\video_result\mixed</video_path>
+	</Dataset>
+</Datasets>
